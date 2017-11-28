@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd87d30d-08ba-4986-8b09-b54fbad8ae23" name="Default" comment="Initial commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/global.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/login2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/noimage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/signup.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/signup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/thumbsup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/tweet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/tweetList.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/tweetme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/twitterIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/updateSettings.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/welcomePage.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/zombie_twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app-bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app-bundle.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/vendor-bundle.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var</find>
+      <find>css</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>let</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/counter.js" />
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/assets/javascript/counter.js" />
+        <option value="$PROJECT_DIR$/assets/javascript/tada.js" />
+        <option value="$PROJECT_DIR$/scripts/tada.js" />
+        <option value="$PROJECT_DIR$/test/aurelia-karma.js" />
+        <option value="$PROJECT_DIR$/karma.conf.js" />
+        <option value="$PROJECT_DIR$/assets/js/tada.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/scripts/tada.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/tweet.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/timeline.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/timeline.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/tweet.js" />
+        <option value="$PROJECT_DIR$/src/services/messages.js" />
+        <option value="$PROJECT_DIR$/src/home.html" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/dashboard/dashboard.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/friends/friends.js" />
+        <option value="$PROJECT_DIR$/src/services/fixtures.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/login/login.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/logout/logout.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/signup/signup.js" />
+        <option value="$PROJECT_DIR$/src/nav-bar.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/signup/signup.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/login/login.html" />
+        <option value="$PROJECT_DIR$/src/home.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/friends/friends.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/dashboard/dashboard.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/logout/logout.html" />
+        <option value="$PROJECT_DIR$/src/app.html" />
+        <option value="$PROJECT_DIR$/src/services/tweet-service.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/aurelia_project/aurelia.json" />
+        <option value="$PROJECT_DIR$/src/viewmodels/timeline/timeline.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/timeline/timeline.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/stats/stats.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/stats/stats.js" />
+        <option value="$PROJECT_DIR$/src/viewmodels/tweet/tweet.html" />
+        <option value="$PROJECT_DIR$/src/viewmodels/tweet/tweet.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-1" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="twitter-web-aurelia-experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-web-aurelia-experiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter-web-aurelia-experiment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter-web-aurelia-experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="node.js.selected.package.jscs" value="/usr/local/lib/node_modules/jscs" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.3" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/viewmodels/timeline" />
+      <recent name="$PROJECT_DIR$/src/viewmodels/tweet" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/src/viewmodels/scripts" />
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/javascript" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/twitter-web-aurelia/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/twitter-web-aurelia/index.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd87d30d-08ba-4986-8b09-b54fbad8ae23" name="Default" comment="" />
+      <created>1511281163516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511281163516</updated>
+      <workItem from="1511281165321" duration="14679000" />
+      <workItem from="1511357718741" duration="5153000" />
+      <workItem from="1511368417234" duration="2417000" />
+      <workItem from="1511372736103" duration="2340000" />
+      <workItem from="1511461945453" duration="606000" />
+      <workItem from="1511464070488" duration="605000" />
+      <workItem from="1511515240770" duration="12000" />
+      <workItem from="1511517905606" duration="52000" />
+      <workItem from="1511787662142" duration="2084000" />
+      <workItem from="1511789885751" duration="9785000" />
+      <workItem from="1511802275596" duration="6932000" />
+      <workItem from="1511857953686" duration="141000" />
+      <workItem from="1511860654308" duration="1831000" />
+      <workItem from="1511864133265" duration="101000" />
+      <workItem from="1511864270722" duration="387000" />
+      <workItem from="1511864697143" duration="1948000" />
+      <workItem from="1511866671009" duration="6504000" />
+      <workItem from="1511879768876" duration="38000" />
+      <workItem from="1511879820829" duration="772000" />
+      <workItem from="1511880605892" duration="297000" />
+      <workItem from="1511880914331" duration="832000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1511281320408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511281320408</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed view of message to tweet file in viewmodels folder">
+      <created>1511286921490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511286921490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added latest aurelia framework to the dependencies">
+      <created>1511286968518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511286968518</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added new layout to file including new background image">
+      <created>1511287051455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511287051455</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added icons from twitter web app project">
+      <created>1511287087235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511287087235</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created a new simple TweetService Class to represent the API in the client.">
+      <created>1511287578808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511287578808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Used to keep tweet-service class clean, we can load tweeters and tweets from an external file.">
+      <created>1511288688088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511288688088</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tweet page layout">
+      <created>1511288717336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511288717336</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created new tweet.js page which defines the text, tweeters and selectedTweeter">
+      <created>1511289322307</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511289322307</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adjusted files">
+      <created>1511297438791</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1511297438791</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created new timeline file to render the details entered into the tweet file">
+      <created>1511297498426</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511297498426</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Created a new css folder containing the main body of the project. I have changed the font family and style. &#10;Also removed the image from the index page and placed it in here">
+      <created>1511297606435</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1511297606435</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Introduced timeline from viewmodels folder">
+      <created>1511297725190</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1511297725190</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Created a link for css styles and favicon icon">
+      <created>1511297759233</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1511297759233</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Created a link for css styles and favicon icon">
+      <created>1511298347693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511298347693</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated file">
+      <created>1511298439685</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1511298439685</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Created new layout colors for nav, sections features">
+      <created>1511803862947</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1511803862947</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Created new login features">
+      <created>1511809778883</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1511809778883</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Created new sign up features">
+      <created>1511809806395</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1511809806395</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Created new logout features">
+      <created>1511809829613</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1511809829613</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Created new friends feature (candidates)">
+      <created>1511809868962</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1511809868962</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Moved file to it's own folder and took out the add tweeter function">
+      <created>1511809934734</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1511809934734</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Moved timeline file to it's own folder">
+      <created>1511809966940</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1511809966940</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Created new dahboard feature which displays all the other features on one page">
+      <created>1511810009612</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1511810009612</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Created new stats features which shows the amount of posts tweeted in the global timeline">
+      <created>1511810057567</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1511810057567</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Reformatted code layout of file">
+      <created>1511810127527</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1511810127527</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Brought in register, login, logout &amp; add friend(TODO) features">
+      <created>1511810594206</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1511810594206</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Created a navigation menu bar template">
+      <created>1511810720751</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1511810720751</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Simplified file to be directed at login / signup routes">
+      <created>1511810916460</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1511810916460</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Created file to access all the other routes in the app">
+      <created>1511811021354</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1511811021354</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Created new features for messages on post update &amp; login status">
+      <created>1511811288263</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1511811288263</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Changed tweeters for users due to new login features created">
+      <created>1511811549660</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1511811549660</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Updated with more screenshots and more added features">
+      <created>1511813307105</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1511813307105</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Installed jquery and hardcoded in semantic-ui elements dependencies">
+      <created>1511872789507</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1511872789507</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Imported jquery into dependencies">
+      <created>1511872827769</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1511872827769</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Introduced new id into html for semantic-ui functionality">
+      <created>1511872892403</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1511872892403</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Created attached method to insert semantic-ui js code for transitional functionality to the page">
+      <created>1511873004721</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1511873004721</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Twitter web aurelia experiment">
+      <created>1511879959141</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1511879959141</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57516000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-1" width="1366" height="768" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2021773" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44167963" sideWeight="0.4969697" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5101089" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Updated file" />
+    <MESSAGE value="Created new layout colors for nav, sections features" />
+    <MESSAGE value="Created new login features" />
+    <MESSAGE value="Created new sign up features" />
+    <MESSAGE value="Created new logout features" />
+    <MESSAGE value="Created new friends feature (candidates)" />
+    <MESSAGE value="Moved file to it's own folder and took out the add tweeter function" />
+    <MESSAGE value="Moved timeline file to it's own folder" />
+    <MESSAGE value="Created new dahboard feature which displays all the other features on one page" />
+    <MESSAGE value="Created new stats features which shows the amount of posts tweeted in the global timeline" />
+    <MESSAGE value="Reformatted code layout of file" />
+    <MESSAGE value="Brought in register, login, logout &amp; add friend(TODO) features" />
+    <MESSAGE value="Created a navigation menu bar template" />
+    <MESSAGE value="Simplified file to be directed at login / signup routes" />
+    <MESSAGE value="Created file to access all the other routes in the app" />
+    <MESSAGE value="Created new features for messages on post update &amp; login status" />
+    <MESSAGE value="Changed tweeters for users due to new login features created" />
+    <MESSAGE value="Updated with more screenshots and more added features" />
+    <MESSAGE value="Installed jquery and hardcoded in semantic-ui elements dependencies" />
+    <MESSAGE value="Imported jquery into dependencies" />
+    <MESSAGE value="Introduced new id into html for semantic-ui functionality" />
+    <MESSAGE value="Created attached method to insert semantic-ui js code for transitional functionality to the page" />
+    <MESSAGE value="Twitter web aurelia experiment" />
+    <MESSAGE value="made file changes to app" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/services/tweet-service.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/tada.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/timeline/timeline.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/index.js" />
+    <entry file="file://$PROJECT_DIR$/assets/javascript/counter.js" />
+    <entry file="file://$PROJECT_DIR$/main.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/tada.js" />
+    <entry file="file://$PROJECT_DIR$/test/aurelia-karma.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/tada.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/tada.js" />
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/scripts/vendor-bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="9769" column="40" lean-forward="true" selection-start-line="9769" selection-start-column="40" selection-end-line="9769" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/tada.js" />
+    <entry file="file://$PROJECT_DIR$/jsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/src/environment.js" />
+    <entry file="file://$PROJECT_DIR$/karma.conf.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/dashboard/dashboard.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/friends/friends.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/fixtures.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/messages.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/login/login.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/logout/logout.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/signup/signup.js" />
+    <entry file="file://$PROJECT_DIR$/src/nav-bar.html" />
+    <entry file="file://$PROJECT_DIR$/src/app.js" />
+    <entry file="file://$PROJECT_DIR$/src/home.html" />
+    <entry file="file://$PROJECT_DIR$/assets/images/login.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/login/login.html" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/signup/signup.html" />
+    <entry file="file://$PROJECT_DIR$/src/home.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/dashboard/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/logout/logout.html" />
+    <entry file="file://$PROJECT_DIR$/src/app.html" />
+    <entry file="file://$PROJECT_DIR$/src/services/tweet-service.js" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/stats/stats.html" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/stats/stats.js" />
+    <entry file="file://$PROJECT_DIR$/aurelia_project/aurelia.json" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/tweet/tweet.html" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/timeline/timeline.html" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/timeline/timeline.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/tweet/tweet.js" />
+    <entry file="file://$PROJECT_DIR$/src/viewmodels/friends/friends.html" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/login2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

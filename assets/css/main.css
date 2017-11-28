@@ -1,0 +1,27 @@
+/* used for changing the background image of all pages and the font type and style */
+body {
+    background-image: url("http://res.cloudinary.com/cloud101/image/upload/v1511286360/twitter-bg_yjzy0b.png");
+    font-family: 'Lato', serif;
+    font-style: oblique;
+}
+
+/* used pre for spacing of text messages when enter is pressed */
+/* set up so the Global text would change */
+pre {
+    font-family: 'Lato', serif;
+    font-style: oblique;
+    font-size: 16px;
+}
+
+/* used for changing the background color of the navigation bar */
+nav.ui.menu {
+  background-color: #bdd9ff;
+}
+
+section.ui.raised.segment, form.ui.segment{
+  background-color: #e9f5ee;
+}
+
+section.ui.inverted.segment{
+  background-color: #b6cff5;
+}
